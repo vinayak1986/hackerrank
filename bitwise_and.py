@@ -1,6 +1,6 @@
 # We loop through all possible combinations of a & b from 1 to n -1 and a + 1 to n respectively. 
 # All valid values matching the required condition (a & b < k) are added to a running list.
-# At the end of the two inner loops, the maximum value of the running loop is added to a
+# At the end of the two inner loops, the maximum value of the running list is added to a
 # results list.
 if __name__ == '__main__':
 	t = int(input())
