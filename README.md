@@ -9,3 +9,6 @@ numbers. It failed to scle up to the complete test cases due to its limitations.
 
 March 19, 2019
 Modified bitwise_and.py to fix the previous issues.
+
+March 19, 2019
+Added nested_logic.py
