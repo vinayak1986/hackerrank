@@ -12,3 +12,6 @@ Modified bitwise_and.py to fix the previous issues.
 
 March 19, 2019
 Added nested_logic.py
+
+March 20, 2019
+Added running_time.py
